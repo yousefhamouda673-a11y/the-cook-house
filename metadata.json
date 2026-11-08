@@ -1,0 +1,6 @@
+{
+  "name": "The Cookhouse - Holly River State Park",
+  "description": "Beloved mountain diner nestled in Holly River State Park, Hacker Valley, WV. Renowned for signature Patty Melts, Ribeye specials, hand-cut fries, and creekside dining.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
